@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "lamp_devboard_lib")(type "KiCad")(uri "${KIPRJMOD}/lamp_devboard_lib.pretty")(options "")(descr ""))
+)

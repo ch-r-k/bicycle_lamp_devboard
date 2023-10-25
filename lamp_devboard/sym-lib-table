@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "New_Library")(type "KiCad")(uri "C:/__projects/kicad/lamp_devboard/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "lamp_devboard_lib")(type "KiCad")(uri "C:/__projects/kicad/lamp_devboard/lamp_devboard_lib.kicad_sym")(options "")(descr ""))
+)
