@@ -228,7 +228,7 @@
     (property "Value" "MAX9938" (id 1) (at 128.27 98.7424 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 125.095 96.52 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-5_HandSoldering" (id 2) (at 125.095 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 125.095 96.52 0)
