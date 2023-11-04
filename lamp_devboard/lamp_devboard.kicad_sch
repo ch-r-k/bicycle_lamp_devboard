@@ -2046,7 +2046,7 @@
       (reference "C201") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/b261620c-aa54-486c-ad78-c8908289ef31/019fdf10-88d6-4c44-a23c-d9846ea24533"
-      (reference "C202") (unit 1) (value "C") (footprint "Capacitor_SMD:C_2220_5650Metric_Pad1.97x5.40mm_HandSolder")
+      (reference "C202") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/b261620c-aa54-486c-ad78-c8908289ef31/d505c68e-1098-4ecd-aee5-de04a6101380"
       (reference "C203") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
@@ -2064,7 +2064,7 @@
       (reference "C207") (unit 1) (value "C") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
     )
     (path "/b261620c-aa54-486c-ad78-c8908289ef31/b2847a48-b29f-4810-b4a6-2cbecad0dbca"
-      (reference "C208") (unit 1) (value "C") (footprint "Capacitor_SMD:C_2220_5650Metric_Pad1.97x5.40mm_HandSolder")
+      (reference "C208") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/d02573d8-7f60-4b04-9124-4a4802530858/74d30213-f765-4396-bc96-a64f7439beaa"
       (reference "C401") (unit 1) (value "C") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
@@ -2196,19 +2196,19 @@
       (reference "J906") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
     (path "/b261620c-aa54-486c-ad78-c8908289ef31/06395278-f636-4437-9d23-be3511b5a772"
-      (reference "JP202") (unit 1) (value "Jumper_2_Bridged") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+      (reference "JP202") (unit 1) (value "Jumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
     )
     (path "/b261620c-aa54-486c-ad78-c8908289ef31/5a0c5e3d-6069-4510-8718-23a9ed936fd9"
-      (reference "JP203") (unit 1) (value "Jumper_3_Open") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
+      (reference "JP203") (unit 1) (value "Jumper_3_Open") (footprint "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm")
     )
     (path "/b261620c-aa54-486c-ad78-c8908289ef31/1b9cb0a4-4f14-4bff-ba0c-7599eef028b7"
-      (reference "JP204") (unit 1) (value "Jumper_2_Bridged") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+      (reference "JP204") (unit 1) (value "Jumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
     )
     (path "/b261620c-aa54-486c-ad78-c8908289ef31/1ecd558e-136b-41bd-9c31-5b864f146b4e"
-      (reference "JP205") (unit 1) (value "Jumper_3_Open") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
+      (reference "JP205") (unit 1) (value "Jumper_3_Open") (footprint "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm")
     )
     (path "/b261620c-aa54-486c-ad78-c8908289ef31/34ef69f7-8c6c-4b4e-b548-9c201a54cb03"
-      (reference "JP206") (unit 1) (value "Jumper_2_Bridged") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+      (reference "JP206") (unit 1) (value "Jumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
     )
     (path "/d02573d8-7f60-4b04-9124-4a4802530858/dab7bf86-45f7-473c-851c-52466f9ba3a9"
       (reference "L401") (unit 1) (value "L") (footprint "Inductor_SMD:L_Coilcraft_XxL4020")
@@ -2424,10 +2424,10 @@
       (reference "U901") (unit 1) (value "STM32L476RG") (footprint "Package_QFP:LQFP-64_10x10mm_P0.5mm")
     )
     (path "/d5e27da9-9ebb-4f34-9816-62dd5f3f0135/aba285c7-00f4-41ee-be3b-5355f669913b"
-      (reference "Y901") (unit 1) (value "Crystal_GND2") (footprint "Crystal:Crystal_SMD_0603-4Pin_6.0x3.5mm_HandSoldering")
+      (reference "Y901") (unit 1) (value "Crystal_GND2") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering")
     )
     (path "/d5e27da9-9ebb-4f34-9816-62dd5f3f0135/ebc1b125-0a94-4618-a162-a1a1eb4b1c07"
-      (reference "Y902") (unit 1) (value "Crystal_GND2") (footprint "Crystal:Crystal_SMD_0603-4Pin_6.0x3.5mm_HandSoldering")
+      (reference "Y902") (unit 1) (value "Crystal_GND2") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering")
     )
   )
 )
