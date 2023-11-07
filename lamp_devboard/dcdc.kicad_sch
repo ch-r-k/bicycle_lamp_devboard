@@ -478,6 +478,15 @@
     (uuid fbe4145c-6e76-4cef-a676-4cb62cb3a018)
   )
 
+  (label "L1" (at 111.76 79.375 90)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 97694d88-ebce-45f6-ab60-845574a2c946)
+  )
+  (label "L2" (at 139.7 79.375 90)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid b8955184-cf2f-4d05-8a21-feede8199b67)
+  )
+
   (hierarchical_label "Vio" (shape input) (at 149.86 104.14 90)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 1537a6e8-2a92-45e8-a1d0-ae9f0112b1b3)
